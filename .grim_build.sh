@@ -5,6 +5,7 @@ set -eu
 . /opt/golang/go1.4.2/bin/go_env.sh
 
 export GOPATH="$(pwd)/go"
+export PATH="/usr/lib/postgresql/9.1/bin:$GOPATH/bin:$PATH"
 export PERL5LIB=/var/lib/grim/perl5/lib/perl5
 
 cd "./$CLONE_PATH"
