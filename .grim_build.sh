@@ -11,7 +11,7 @@ cd "./$CLONE_PATH"
 curl -L https://cpanmin.us/ -o cpanm
 chmod +x cpanm
 
-cpanm --installdeps .
+./cpanm --installdeps .
 
 perl Makefile.PL && make test dist
 if [ "$GH_EVENT_NAME" == "push" -a "$GH_TARGET" == "master" ]; then
