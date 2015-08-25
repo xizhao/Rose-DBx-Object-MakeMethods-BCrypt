@@ -10,13 +10,13 @@ WriteMakefile(
     "Test::Exception"   => 0,
     "Test::More"        => 0,
     "File::FindLib"     => 0,
-    "Rose::DBx::TestDB" => 0,
   },
   PREREQ_PM     => {
     "Rose::DB"                          => 0,
     "Rose::DB::Object"                  => 0,
     "Authen::Passphrase::BlowfishCrypt" => 0,
     "Sub::Exporter"                     => 0,
+    "Rose::DBx::TestDB" => 0,
   }
 );
 
