@@ -35,7 +35,7 @@ Rose::DBx::Object::MakeMethods::BCrypt is a custom Rose::DB column type that han
 # CONTRIBUTING
 The code for `Rose-DBx-Object-MakeMethods-BCrypt` is hosted on GitHub at:
 
-         https://github.com/MediaMath/Rose-DBx-Object-MakeMethods-BCrypt 
+https://github.com/MediaMath/Rose-DBx-Object-MakeMethods-BCrypt 
 
 If you would like to contribute code, documentation, tests, or bugfixes, follow these steps:
  1. Fork the project on GitHub.
