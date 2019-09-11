@@ -1,4 +1,6 @@
 # NAME
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxizhao%2FRose-DBx-Object-MakeMethods-BCrypt.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxizhao%2FRose-DBx-Object-MakeMethods-BCrypt?ref=badge_shield)
+
          Rose::DBx::Object::MakeMethods::BCrypt
 
 # SYNOPSIS
@@ -51,3 +53,6 @@ If you are unfamiliar with GitHub, start with their excellent documentation here
 Copyright 2015, Logan Bell / MediaMath
 This program is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxizhao%2FRose-DBx-Object-MakeMethods-BCrypt.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxizhao%2FRose-DBx-Object-MakeMethods-BCrypt?ref=badge_large)
